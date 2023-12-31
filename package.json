@@ -1,0 +1,18 @@
+{
+  "name": "ecomdashboard",
+  "version": "1.0.0",
+  "description": "eCommerce Dashboard using Express, Mongoose, React JS, and Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "E-Commerce",
+    "DashBoard"
+  ],
+  "author": "Parul Rathva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
